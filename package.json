@@ -1,0 +1,25 @@
+{
+  "name": "jest-antother-rpg",
+  "version": "1.0.0",
+  "description": "Module 10",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryanjperez/jest-antother-rpg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryanjperez/jest-antother-rpg/issues"
+  },
+  "homepage": "https://github.com/bryanjperez/jest-antother-rpg#readme",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
